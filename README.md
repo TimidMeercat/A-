@@ -4,7 +4,7 @@ A python program to solve an 8 puzzle using heuristics.
 
 ### Getting Started
 The program uses manhattan distance as heuristic and bisect sort for quick sorting.\
-To use the number of squares that are not in the right place as heuristic, simple replace 'f2value' with fvalue in line 179.
+To use the number of squares that are not in the right place as heuristic, simple replace **self.f2value** with **self.fvalue** in line-185.
 
 ### Execution
 
